@@ -1,1 +1,1 @@
-codespell>=2.0.0
+git+https://github.com/codespell-project/codespell.git@42a3783915bf3792a8bb587b335bd2cadb2605b8
