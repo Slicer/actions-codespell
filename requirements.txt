@@ -1,1 +1,1 @@
-https://github.com/codespell-project/codespell/archive/42a3783915bf3792a8bb587b335bd2cadb2605b8.tar.gz
+https://github.com/codespell-project/codespell/archive/a1d60ec77200aeeb4ca1d6f74b4bacd8578264bc.tar.gz
